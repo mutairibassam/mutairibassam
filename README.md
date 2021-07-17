@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-[![Bassam's github stats](https://github-readme-stats.vercel.app/api?username=mutairibassam)](https://github.com/mutairibassam/github-readme-stats)
+[![Bassam's github stats](https://github-readme-stats.vercel.app/api?username=mutairibassam&show_icons=true)](https://github.com/mutairibassam/github-readme-stats)
   
 <!--
 Here are some ideas to get you started:
