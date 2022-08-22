@@ -8,6 +8,5 @@ Hi, I’m self-sufficient and reliable professional with 6 years of experience i
 * Project management tool: Notion
 * Open-source: Repo maintainer, code reviewer, contributor
 * I love reading and teaching
-* Don't tell me, show me!
 
 > learning ci/cd: Jenkins/OpenShift
