@@ -6,7 +6,7 @@ Hi, I’m self-sufficient and reliable professional with 6 years of experience i
 * Workflow: GitHub action
 * Cloud: Digital Ocean, Ex-(heroku, vercel)
 * Project management tool: Notion
-* Open-source: Repo maintainer, code reviewer, contributor
+* Open-source: Repo maintainer, code reviewer, contributor, developer advocate
 * I love reading and teaching
 
 > learning ci/cd: Jenkins/OpenShift
